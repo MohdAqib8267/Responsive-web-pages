@@ -1,7 +1,6 @@
 body{
     margin: 0;
     padding: 0;
-    height: 586px;
 }
 #nav1{
     background: #291744;
@@ -36,6 +35,7 @@ p{
     }
     .container1-left img{
         width: auto;
+        margin-top: -80px;
        
     }
  }
